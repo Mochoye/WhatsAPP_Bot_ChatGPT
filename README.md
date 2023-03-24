@@ -7,7 +7,7 @@ With the help of Node.js and OpenAI bot, this source code enables you to develop
 
 # How to Install? 
 $ git clone https://github.com/Mochoye/WhatsAPP_Bot_ChatGPT <br>
-$ cd whatsapp-chatgpt <br>
+$ cd WhatsAPP_Bot_ChatGPT <br>
 $ npm install <br>
 $ node index.js <br>
 
